@@ -26,6 +26,11 @@
       color: #361D1D;
       
     }
+.center {
+    margin: auto;
+    width: 322px;
+    
+}
 
     .dark{
       padding: 15px;
