@@ -1,56 +1,6 @@
-<!DOCTYPE HTML>
-<html lang=en>
-
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Accountants, Chartered Accountants">
-    <meta name="keywords" content="Accounts, Payroll, Book keeping, Taxation services, Corporation tax services, Self assessment , VAT, HMRC Investigations, Tax protection, New business advice">
-    <meta name="author" content="Mike Teuten">
-
-    <title> Peter Baldwin & Co | Contact</title>
-    <link rel="stylesheet" href="responsive_css.css">
-    <link rel="stylesheet" href="modal.css">
-  </head>
-    <body>
-      <header>
-        <div class="container">
-          <div id="branding">
-            <h1><span class="highlight">Peter Baldwin & Co</span></h1>
-          </div>
-          <nav>
-            <ul>
-              <li><a href="index.html">Home</a></li>
-              <li><a href="about.html">About</a></li>
-              <li><a href="services.html">Services</a></li>
-              <li class="current"><a href="contact.html">Contact</a></li>
-              <li><a href="factsheet.html">Factsheets</a></li>
-            </ul>
-          </nav>
-        </div>
-      </header>
-
-      <section id="newsletter">
-        <div class="container">
-          <h2>Contact us today: 01243 83 83 83 </h2>
-
-          <aside>
-              <div class="dark">
-                  <p>Peter Baldwin & Co, Copyright &copy; 2017 <br>
-                    Unit J1, Durban Road, Bognor Regis, PO22 9QT
-                  
-              </div>
-   
-        </div>
-      </section>
-    <img src="imgs/Map.JPG" alt="Location map" style="width:50%; height:auto;">
-
-
-
-    <aside id="sidebar">
-      <div class="dark">
-      <!-- Trigger/Open The Modal -->
-      <button id="myBtn" class="button_1";>Email us</button>
+<!-- Trigger/Open The Modal -->
+<div>
+<button id="myBtn">Contact</button>
 </div>
 <!-- The Modal -->
 
@@ -146,7 +96,7 @@ Name:<br>
 E-mail:<br>
 <input type="text" name="mail"><br>
 Comment:<br>
-<input type="text" name="comment" size="25"><br><br>
+<input type="text" name="comment" size="50"><br><br>
 <input type="submit" value="Send">
 <input type="reset" value="Reset">
 </form>
@@ -156,9 +106,9 @@ Comment:<br>
     </div>
 
     <div class="modal-footer">
-      <h5>By using this form, you will agree to our Privacy Notice.</h5>
-      <img src="imgs/right-arrow-double-3.gif" width="16" height="16" alt="Privacy Notice"> <a href="factsheets/Peter%20Baldwin%20%20Co%20Privacy%20Notice%20180219.pdf
-      " target="_blank">Privacy Notice</a><br>
+      <h5>By using this form, you will agree to our Privicy Notice.</h5>
+      <img src="imgs/right-arrow-double-3.gif" width="16" height="16" alt="Privicy Notice"> <a href="factsheets/Peter%20Baldwin%20%20Co%20Privacy%20Notice%20180219.pdf
+      " target="_blank">Privicy Notice</a><br>
     </div>
   </div>
 
@@ -193,19 +143,3 @@ window.onclick = function(event) {
 </script>
     </div>
     </aside>
- 
-    </body>
-    
-    <footer>
-    <a href="https://www.accaglobal.com/">
-    <img class="acca" src="imgs/acca.gif" alt="ACCA" style="width: 128px; height: 128px;">
-        </a>
-        <p>Peter Baldwin & Co, Copyright &copy; 2017 <br>
-          Unit J1, Durban Road, Bognor Regis, PO22 9QT
-          <br>Website design MedAppLive</p>
-        <img src="imgs/right-arrow-double-3.gif" width="16" height="16" alt="Privicy Notice"> <a href="factsheets/Peter%20Baldwin%20%20Co%20Privacy%20Notice%20180219.pdf
-        " target="_blank">Privacy Notice</a><br>
-    </footer>
-
-
-</html>
